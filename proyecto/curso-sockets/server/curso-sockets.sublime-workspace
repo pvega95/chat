@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"tex",
+				"text-left"
+			],
+			[
+				"cold-",
+				"col-md-9"
+			],
+			[
+				"section",
+				"section-container-spacer"
+			],
+			[
+				"dr",
+				"dropdown-toggle"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"bacgr",
+				"background-blend-mode"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"navbar-",
+				"navbar-nav"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"ima",
+				"imagenes_migrar"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"N",
+				"Name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/proyecto/curso-sockets"
+	],
+	"file_history":
+	[
+		"/C/Users/PAUL-PC/Downloads/exercise4-SOLUTIONS.js",
+		"/C/Users/PAUL-PC/Downloads/exercise4.js",
+		"/C/Users/PAUL-PC/Desktop/script/script.js",
+		"/C/Users/PAUL-PC/Desktop/script/index.html",
+		"/C/Users/PAUL-PC/Downloads/exercise3-SOLUTIONS.js",
+		"/C/Users/PAUL-PC/Downloads/exercise3.js",
+		"/C/Users/PAUL-PC/Downloads/exercise2-SOLUTIONS.js",
+		"/C/Users/PAUL-PC/Downloads/exercise2.js",
+		"/C/Users/PAUL-PC/Desktop/colegio/main2.css",
+		"/C/Users/PAUL-PC/Desktop/colegio/nursey.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/misionvision.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/index.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/instalacion.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/personal.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.a3f694c0.css",
+		"/C/Users/PAUL-PC/Desktop/colegio/about.html",
+		"/C/Users/PAUL-PC/Desktop/bootstrap-4-multi-dropdown-navbar-master/index.html",
+		"/C/Users/PAUL-PC/Downloads/exercise6.txt",
+		"/C/Users/PAUL-PC/Downloads/exercise6-SOLUTIONS.js",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.5a6e71a8.js",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.41beeca9.js",
+		"/C/Users/PAUL-PC/Desktop/colegio/contact.html",
+		"/C/Users/PAUL-PC/Desktop/aaaa.html",
+		"/C/Users/PAUL-PC/Desktop/222.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/download.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.41beeca9.map",
+		"/C/Users/PAUL-PC/Desktop/colegio/pricing.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.953ac124.js",
+		"/C/Users/PAUL-PC/Desktop/colegio/components.html",
+		"/C/Users/PAUL-PC/Desktop/colegio/main.f8c2d08b.js",
+		"/C/Users/PAUL-PC/Downloads/exercise3-SOLUTIONS.txt",
+		"/C/Users/PAUL-PC/Downloads/exercise3.txt",
+		"/C/Users/PAUL-PC/Desktop/startup/style.css",
+		"/C/Users/PAUL-PC/Desktop/startup/index.html",
+		"/C/Users/PAUL-PC/Downloads/exercise2.txt",
+		"/C/Users/PAUL-PC/Downloads/exercise2-SOLUTIONS.txt",
+		"/C/Users/PAUL-PC/Downloads/exercise1.txt",
+		"/C/Users/PAUL-PC/Desktop/startup/style(3).css",
+		"/C/Users/PAUL-PC/Desktop/startup/index(3).html",
+		"/C/Users/PAUL-PC/Desktop/robotfriend/bootstrap.html",
+		"/C/Users/PAUL-PC/Desktop/robotfriend/style(2).css",
+		"/C/Users/PAUL-PC/Desktop/robotfriend/style(1).css",
+		"/C/Users/PAUL-PC/Desktop/robotfriend/index(1).html",
+		"/C/Users/PAUL-PC/Desktop/HTML/main.css",
+		"/C/Users/PAUL-PC/Desktop/HTML/formulario.html",
+		"/C/Users/PAUL-PC/Desktop/HTML/menuedson.html",
+		"/C/Users/PAUL-PC/Desktop/HTML/index.html",
+		"/C/Users/PAUL-PC/Downloads/picture-links.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"max-width:992px",
+			"pricing-features",
+			"13.5",
+			"ul",
+			"features li",
+			"features-li",
+			"features",
+			"ul",
+			"features",
+			"pricing-features",
+			"pricing-card",
+			"305",
+			"305px",
+			"305",
+			"pricing-card",
+			"show",
+			"dropbox",
+			"lng",
+			"lat",
+			"long",
+			"\"))}});",
+			"lat",
+			"navigation",
+			"jpeg",
+			"555",
+			">\n",
+			"\n</html> ",
+			" \n",
+			"817"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
